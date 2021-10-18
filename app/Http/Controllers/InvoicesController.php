@@ -39,6 +39,7 @@ class InvoicesController extends Controller
     public function store(Request $request)
     {
     return $request;
+    //return request
     }
 
     /**
